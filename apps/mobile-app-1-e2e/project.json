@@ -1,4 +1,7 @@
 {
+  "namedInputs": {
+    "default": ["{projectRoot}/**/*", "sharedGlobals", "{workspaceRoot}/apps/chromium-launch.ts"]
+  },
   "name": "mobile-app-1-e2e",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
